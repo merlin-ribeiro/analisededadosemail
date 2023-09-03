@@ -1,3 +1,4 @@
 # Projeto de análise de dados com e-mail
 Este repositório contém um projeto de análise de dados desenvolvido em Python, utilizando uma variedade de bibliotecas, incluindo Pandas, Numpy, Mailbox e Matplotlib. O objetivo principal deste projeto é analisar e extrair informações significativas dos e-mails recebidos, destacando suas diferenças e características relevantes.
 Foi desenvolvido como uma atividade avaliativa para a aula de Estatística Aplicada à Computação, ministrada pelo professor Paulo Ribeiro no Instituto Federal de Ciência e Tecnologia da Paraíba - IFPB, Curso de Bacharelado em Engenharia de Computação. É Baseado no código do capítulo 3 do livro "Hands on Exploratory Data Analysis with Python", com os códigos disponíveis no [github](https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python).
+(Para melhor visualização recomendo o uso do Google Colaboratory)
